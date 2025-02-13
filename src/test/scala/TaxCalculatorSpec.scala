@@ -14,5 +14,4 @@ class TaxCalculatorSpec extends AnyWordSpec {
         assert(result == 0)
       }
     }
-  }
-}
+
